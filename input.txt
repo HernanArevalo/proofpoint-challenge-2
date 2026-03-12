@@ -1,0 +1,34 @@
+Hello world! This is a simple test text.
+
+The world is big, and the world is full of people. Some people say the world never stops changing. 
+But is that really true? Maybe it is, maybe it isn't.
+
+Hello again! HELLO again. hello AGAIN.
+
+In 2024, many people wrote code. In 2025, even more people wrote code!
+Some wrote Python, some wrote JavaScript, and some wrote TypeScript.
+
+Python is popular. Python is simple. Python is powerful.
+
+Numbers like 1, 2, 3, 42, and 100 should not break the program.
+But sometimes numbers appear inside text like version2 or file123 or test42.
+
+Symbols should disappear: @ # $ % ^ & * ( ) [ ] { } < > / \
+
+Sometimes text has strange spacing.
+
+
+Some lines have extra spaces.
+Some lines have extra      spaces.
+
+Does punctuation work? Yes, it should work! Words like "hello," and "hello." should be counted as the same word.
+
+Programming languages appear again:
+Python python PYTHON
+JavaScript javascript JAVASCRIPT
+TypeScript typescript TYPESCRIPT
+
+People write code. Developers write code. Engineers write code.
+Code, code, code everywhere!
+
+At the end of the day, the most frequent words should appear clearly in the result.
